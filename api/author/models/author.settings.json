@@ -9,7 +9,7 @@
     "timestamps": true
   },
   "attributes": {
-    "avatar": {
+    "photo": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
