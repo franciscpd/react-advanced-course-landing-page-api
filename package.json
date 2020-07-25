@@ -14,6 +14,9 @@
     "eslint": "^7.5.0"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^20.0.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "ckeditor-build-with-simple-upload-provider-strapi": "^1.0.7",
     "knex": "^0.21.2",
     "pg": "latest",
     "strapi": "3.1.1",
@@ -22,6 +25,7 @@
     "strapi-plugin-content-manager": "3.1.1",
     "strapi-plugin-content-type-builder": "3.1.1",
     "strapi-plugin-email": "3.1.1",
+    "strapi-plugin-graphql": "3.1.1",
     "strapi-plugin-upload": "3.1.1",
     "strapi-plugin-users-permissions": "3.1.1",
     "strapi-utils": "3.1.1"
